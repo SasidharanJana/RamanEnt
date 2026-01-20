@@ -1,0 +1,7 @@
+{
+  "name": "Raman Enterprises Manager",
+  "description": "A comprehensive business management suite for electrical and road construction contractors, featuring inventory, GST-compliant purchasing, project tracking, and AI-driven business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
